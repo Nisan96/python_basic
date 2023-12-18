@@ -1,0 +1,7 @@
+Python is interpreted language
+Python is a awesome language
+Python is great for automation
+automation is crucial for software testing
+
+ 
+Hello world
